@@ -151,6 +151,7 @@ node scripts/migrate_author_schema.js
 ---
 ## Video Demo
 https://www.youtube.com/watch?v=wltHaWRjr9Q
+
 ---
 ## 🎯 Final Note
 
